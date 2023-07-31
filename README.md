@@ -35,6 +35,11 @@ cd FeedFrog
 python feedfrog.py
 ```
 
+## How to Play
+- Use your mouse to control the frog's tongue and catch flies (in black) to increase your food count.
+- Avoid touching bees (in red) with the tongue, as it will lead to a game over.
+- For detailed game rules, consult the in-game instructions.
+
 ## Contributions and Issues
 
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request. Let's collaborate and take this project to new heights together.
