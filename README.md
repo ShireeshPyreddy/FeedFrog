@@ -26,8 +26,8 @@ I will upload them as soon as possible.
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/stochastic-ascii-art-generator.git
-cd stochastic-ascii-art-generator
+git clone https://github.com/ShireeshPyreddy/FeedFrog.git
+cd FeedFrog
 ```
 2. **Run the Generator:**
 ```bash
