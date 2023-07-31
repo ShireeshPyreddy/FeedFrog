@@ -20,6 +20,7 @@ I will upload them as soon as possible.
 - ChatGPT and BingAI's Prompt Engineering
 - Progressive Difficulty
 - Game Development using PyGame
+- AI Generated Music using AIVA
  
 
 ## How to Use
